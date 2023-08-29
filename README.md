@@ -4,3 +4,5 @@ Rock, paper and scissors is a childhood game. Consists of 87 lines of code. You 
 Download the repository with "main.py" file and run it!
 # Disclaimer!
 The code was made by 15% using a neural network. Interface language is Russian!
+
+Foxi May (c) 
